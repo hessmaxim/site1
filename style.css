@@ -75,3 +75,7 @@ font-family: sans-serif;
     display: flex;
     justify-content: space-between;
 }
+.contacts-form {
+    display: flex;
+    justify-content: space-around;
+}
